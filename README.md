@@ -10,7 +10,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:matheus.costa2616@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/lukmat_76/)
 [<img src="https://img.shields.io/github/followers/MatheusCosta616?label=follow&style=social" height="22" title="Follow me" />](https://github.com/MatheusCosta616)
-<img align="right" width="200px" src="https://i.pinimg.com/originals/2b/f5/20/2bf52068d4472114de09bb2734a70f2e.gif">
+<img align="right" width="400px" src="https://i.pinimg.com/originals/2b/f5/20/2bf52068d4472114de09bb2734a70f2e.gif">
 <br>
 - 🔭 I’m front-end technician
 - 🌱 I’m currently study Software Engineering
