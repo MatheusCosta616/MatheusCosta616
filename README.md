@@ -1,6 +1,6 @@
 <center></center>
 
-<h1 align="center"> <img height="40px" widht="40px" src="https://i.gifer.com/origin/08/089af74235a38edcc7b433321f0a5472_w200.gif"/> Hello! Welcome to MatheusCosta616 profile 👨‍💻 </h1>
+<h1 align="center"> <img height="60px" widht="60px" src="https://i.gifer.com/origin/08/089af74235a38edcc7b433321f0a5472_w200.gif"/> Hello! Welcome to MatheusCosta616 profile 👨‍💻 </h1>
  <h2 align="center">Welcome to my Profile</h2>
  <img src="http://views.whatilearened.today/views/github/MatheusCosta616/views.svg"/>
 </p>
