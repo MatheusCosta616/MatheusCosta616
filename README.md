@@ -6,6 +6,8 @@
 
 ### Hello World 👋 I am [Matheus Costa](https://github.com/MatheusCosta616)
 
+<p aling="center"><img src="https://i.pinimg.com/originals/78/d3/8d/78d38d30210c2e7c612d941bc1f7c8ef.gif"></p>
+
 <img src="http://views.whatilearened.today/views/github/MatheusCosta616/views.svg"/>
 
 </br>
