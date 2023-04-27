@@ -1,10 +1,10 @@
-
+<p aling="center"><img height="40px" widht="40px" src="https://i.gifer.com/origin/08/089af74235a38edcc7b433321f0a5472_w200.gif"></p>
 
 <h1 align="center"> Hello, I'm Matheus Costa 👨‍💻 </h1>
  <h2 align="center">Welcome to my Profile</h2>
 </p>
 
-<p aling="center"> ### Hello World 👋 I am [Matheus Costa](https://github.com/MatheusCosta616)<img height="40px" widht="40px" src="https://i.gifer.com/origin/08/089af74235a38edcc7b433321f0a5472_w200.gif"></p>
+### Hello World 👋 I am [Matheus Costa](https://github.com/MatheusCosta616)
 
 </br>
 
