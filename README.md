@@ -6,9 +6,6 @@
 </p>
 
 ### Hello World 👋 I am [Matheus Costa](https://github.com/MatheusCosta616)
-
-
-
 <img src="http://views.whatilearened.today/views/github/MatheusCosta616/views.svg"/>
 
 </br>
