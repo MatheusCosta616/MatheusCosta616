@@ -7,7 +7,7 @@
 </p>
 
 ### Hello World 👋 I am [Matheus Costa](https://github.com/MatheusCosta616)
-
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-costa-b7a46425b/)
 <img align="right" width="200px" src="https://i.pinimg.com/originals/2b/f5/20/2bf52068d4472114de09bb2734a70f2e.gif">
 </br>
 <h2 align="left">About:</h2>
