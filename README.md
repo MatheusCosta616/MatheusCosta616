@@ -1,3 +1,5 @@
+<img align="center" src="https://i.gifer.com/origin/08/089af74235a38edcc7b433321f0a5472_w200.gif">
+
 <h1 align="center"> Hello, I'm Matheus Costa 👨‍💻 </h1>
  <h2 align="center">Welcome to my Profile</h2>
 </p>
