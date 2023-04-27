@@ -3,7 +3,6 @@
 <h1 align="center"> <img height="40px" widht="40px" src="https://i.gifer.com/origin/08/089af74235a38edcc7b433321f0a5472_w200.gif"/> Hello, I'm Matheus Costa 👨‍💻 </h1>
  <h2 align="center">Welcome to my Profile</h2>
  <img src="http://views.whatilearened.today/views/github/MatheusCosta616/views.svg"/>
-  ![status](https://img.shields.io/badge/status-up-brightgreen)
 </p>
 
 ### Hello World 👋 I am [Matheus Costa](https://github.com/MatheusCosta616)
@@ -12,6 +11,14 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/lukmat_76/)
 [<img src="https://img.shields.io/github/followers/MatheusCosta616?label=follow&style=social" height="22" title="Follow me" />](https://github.com/MatheusCosta616)
 <img align="right" width="200px" src="https://i.pinimg.com/originals/2b/f5/20/2bf52068d4472114de09bb2734a70f2e.gif">
+<br>
+<p>
+- 🔭 I’m front-end technician
+- 🌱 I’m currently study Software Engineering
+- 🔥 I’m looking new jobs
+- 👾 Gamer
+- 🇧🇷
+ </p>
 </br>
 <br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
