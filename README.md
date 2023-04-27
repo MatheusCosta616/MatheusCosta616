@@ -6,7 +6,7 @@
 
 ### Hello World 👋 I am [Matheus Costa](https://github.com/MatheusCosta616)
 
-<p aling="center"><img src="https://i.pinimg.com/originals/78/d3/8d/78d38d30210c2e7c612d941bc1f7c8ef.gif"></p>
+
 
 <img src="http://views.whatilearened.today/views/github/MatheusCosta616/views.svg"/>
 
@@ -18,3 +18,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusCosta616&theme=tokyonight)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCosta616&layout=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<p aling="center"><img height="100px" width="100px" src="https://i.pinimg.com/originals/78/d3/8d/78d38d30210c2e7c612d941bc1f7c8ef.gif"></p>
