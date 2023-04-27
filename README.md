@@ -12,13 +12,13 @@
 [<img src="https://img.shields.io/github/followers/MatheusCosta616?label=follow&style=social" height="22" title="Follow me" />](https://github.com/MatheusCosta616)
 <img align="right" width="200px" src="https://i.pinimg.com/originals/2b/f5/20/2bf52068d4472114de09bb2734a70f2e.gif">
 <br>
-<p>
+<li>
 - 🔭 I’m front-end technician
 - 🌱 I’m currently study Software Engineering
 - 🔥 I’m looking new jobs
 - 👾 Gamer
 - 🇧🇷
- </p>
+ </li>
 </br>
 <br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
