@@ -13,7 +13,7 @@
 <img align="right" width="200px" src="https://i.pinimg.com/originals/2b/f5/20/2bf52068d4472114de09bb2734a70f2e.gif">
 </br>
 <h2 align="left">About:</h2>
-<p>I am a Front-End developer graduated from ETEC in the Technical Course of Computer Science for the Internet. Nowadays I study on FIAP as a Software Engineer</p>
+<p>I am a Front-End developer graduated from ETEC in the Technical Course of Computer Science for the Internet. I am focused on JavaScript, React, HTML, CSS and PhP languages, but even with this knowledge I am still looking to learn more languages for a better improvement of my skills, I have a thirst for knowledge and always try to update myself with new technologies.</p>
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusCosta616&theme=tokyonight)
