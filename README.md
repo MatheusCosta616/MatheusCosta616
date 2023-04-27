@@ -10,6 +10,8 @@
 
 </br>
 <h2 align="left">About:</h2>
+<p>I am a Front-End developer graduated from ETEC in the Technical Course of Computer Science for the Internet. Nowadays I study on FIAP as a Software Engineer</p>
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusCosta616&theme=tokyonight)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCosta616&layout=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
