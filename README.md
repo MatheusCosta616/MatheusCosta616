@@ -12,7 +12,7 @@
 [<img src="https://img.shields.io/github/followers/MatheusCosta616?label=follow&style=social" height="22" title="Follow me" />](https://github.com/MatheusCosta616)
 <img align="right" width="300px" src="https://i.pinimg.com/originals/2b/f5/20/2bf52068d4472114de09bb2734a70f2e.gif">
 <br>
-- 🔭 I’m front-end technician
+- 🔭 I’m full-stack technician
 - 🌱 I’m currently study Software Engineering
 - 🔥 I’m looking new jobs
 - 👾 I play video games
