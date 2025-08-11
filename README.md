@@ -47,7 +47,6 @@ I am always striving to grow and improve in the area I am passionate about, cons
   <img src="https://skillicons.dev/icons?i=java,js,python" title="Java, JavaScript, Python" />
   <!-- Frameworks -->
   <img src="https://skillicons.dev/icons?i=spring,react" title="Spring, React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/micronaut/micronaut-original.svg" height="30" title="Micronaut" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="30" title="Vue.js" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" height="30" title="Hibernate" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="30" title="SASS" />
@@ -67,17 +66,16 @@ I am always striving to grow and improve in the area I am passionate about, cons
 
 <p align="center">
   <b>
-    Linguagens: Java, JavaScript, Python <br>
+    Languages: Java, JavaScript, Python <br>
     Frameworks: Spring Framework, Micronaut, Hibernate, Liquid, React, SASS, Vue.js <br>
-    Banco de dados: MySQL, PostgreSQL, Oracle, SQL Server <br>
-    Ferramenta de versionamento: Git <br>
-    Ferramenta de Build: Maven <br>
-    Ferramentas de integração contínua: Jenkins <br>
-    Metodologias ágeis: Scrum, Kanban <br>
-    Outras tecnologias: RESTful APIs, Swagger, Azure
+    Databases: MySQL, PostgreSQL, Oracle, SQL Server <br>
+    Version Control: Git <br>
+    Build Tool: Maven <br>
+    Continuous Integration Tools: Jenkins <br>
+    Agile Methodologies: Scrum, Kanban <br>
+    Other Technologies: RESTful APIs, Swagger, Azure
   </b>
 </p>
-
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -98,10 +96,4 @@ I am always striving to grow and improve in the area I am passionate about, cons
 <p align="center">
   <img src="https://i.imgur.com/0y0y0y0.gif" height="40" />
   <b>Feel free to reach out, collaborate, or just say hi!</b>
-</p>
-
-<h2 align="center">📈 GitHub Metrics</h2>
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/MatheusCosta616?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&habits=1&notable=1&lines=1&stars=1&topics=1&people=1&followup=1&stargazers=1&repositories=1&activity=1&achievements=1&base.indepth=1&config.timezone=America%2FSao_Paulo" alt="Metrics" />
 </p>
