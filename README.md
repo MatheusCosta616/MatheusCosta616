@@ -30,7 +30,7 @@
 
 ---
 
-### <img src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif" height="40" /> 
+<img src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif" height="40" /> 
 
 <div align="left">
 <!-- Animated Java Hello World! (writes out, doesn't loop/erase) -->
