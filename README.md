@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<img align="right" width="300px" src="https://i.pinimg.com/originals/2b/f5/20/2bf52068d4472114de09bb2734a70f2e.gif">
+<img position="absolute" align="right" width="300px" src="https://i.pinimg.com/originals/2b/f5/20/2bf52068d4472114de09bb2734a70f2e.gif">
 
 ---
 
