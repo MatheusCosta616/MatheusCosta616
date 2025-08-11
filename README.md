@@ -30,8 +30,6 @@
 
 ---
 
-
-
 <div align="left">
 <img src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif" height="90" /> 
 <!-- Animated Java Hello World! (writes out, doesn't loop/erase) -->
@@ -103,7 +101,7 @@ I am always striving to grow and improve in the area I am passionate about, cons
 <h2 align="center">🌎 Let's Connect & Build!</h2>
 
 <p align="center">
-  <img src="[https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif](https://media1.tenor.com/m/bNFAMafRPRwAAAAd/kiryu-yakuza.gif)" height="240" title="Yakuza Kiryu"/>
+  <img src="https://media1.tenor.com/m/bNFAMafRPRwAAAAd/kiryu-yakuza.gif" height="240" title="Yakuza Kiryu"/>
   <br>
   <b>Feel free to reach out, collaborate, or just say hi!</b>
 </p>
