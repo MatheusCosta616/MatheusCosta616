@@ -1,9 +1,13 @@
-<center></center>
+<p align="center">
+  <img src="https://github.com/MatheusCosta616/MatheusCosta616/assets/your-purple-background-animation.gif" style="position:absolute;top:0;left:0;width:100%;height:100%;z-index:-1;pointer-events:none;" alt="Animated Purple Background"/>
+</p>
 
-<h1 align="center">
+<div align="center">
   <img height="60px" width="60px" src="https://i.gifer.com/origin/08/089af74235a38edcc7b433321f0a5472_w200.gif" />
-  Hey there! Welcome to <span style="color:#1e90ff;">MatheusCosta616</span>'s Profile 👨‍💻
-</h1>
+  <h1>
+    Hey there! Welcome to <span style="color:#a259ff;">MatheusCosta616</span>'s Profile 👨‍💻
+  </h1>
+</div>
 
 <p align="center">
   <img src="http://views.whatilearened.today/views/github/MatheusCosta616/views.svg"/>
@@ -26,34 +30,78 @@
   </a>
 </p>
 
-<img align="right" width="320px" src="https://i.pinimg.com/originals/2b/f5/20/2bf52068d4472114de09bb2734a70f2e.gif">
+<img align="right" width="300px" src="https://i.pinimg.com/originals/2b/f5/20/2bf52068d4472114de09bb2734a70f2e.gif">
 
 ---
 
 ### 👋 Hello World, I'm [Matheus Costa](https://github.com/MatheusCosta616)!
 
-- 🔭 Full-stack technician with a passion for building cool stuff!
-- 🌱 Currently studying Software Engineering
-- 🔥 Always on the lookout for new opportunities & challenges
-- 👾 Gamer at heart
-- 🇧🇷 Proudly Brazilian
+Full Stack developer focused on technologies such as **Spring Boot (Java), Micronaut (Java), React (JavaScript), Vue.js (JavaScript)**, and relational databases (**SQL**). I worked as an independent developer for a year and am currently working as a developer at **Braxxy Software & Projects**.
+
+I have been studying programming for over five years, having completed two technical courses at **ETEC Parque Belém**, where I built my foundation. Currently, I am pursuing a **Bachelor's degree in Software Engineering at FIAP** to gain deeper knowledge and expertise in the field.
+
+I am always striving to grow and improve in the area I am passionate about, constantly overcoming challenges and getting better every day.
 
 ---
 
-<h2 align="center">🛠️ My Tech Arsenal</h2>
+<h2 align="center">🛠️ Competências Técnicas</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,react,spring,html,css,js,sql,git,vscode,github,linux" alt="Tech stack" />
-</p>
-
----
-
-<h2 align="left">✨ About Me</h2>
-
-<p>
-  I'm a Back-End developer, graduated from <strong>ETEC</strong> in the Technical Course of Computer Science for the Internet. My main focus is on <strong>Java, React, Spring, SQL</strong> and <strong>Python</strong>, but I'm always hungry to expand my knowledge and explore new technologies.<br><br>
-  I have a thirst for knowledge and love to stay updated with the latest trends. Let's build something epic together!
-</p>
+<table align="center">
+  <tr>
+    <td><strong>Linguagens</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,js,python" height="30">
+      Java, JavaScript, Python
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=spring,react" height="30">
+      Spring Boot, Micronaut, Hibernate, Liquid, React, SASS, Vue.js
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Bancos de Dados</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle" height="30">
+      MySQL, PostgreSQL, Oracle, SQL Server
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Versionamento</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" height="30">
+      Git
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Build</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" height="20">
+      Maven
+    </td>
+  </tr>
+  <tr>
+    <td><strong>CI/CD</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" height="20">
+      Jenkins
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Metodologias Ágeis</strong></td>
+    <td>
+      Scrum, Kanban
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Outras Tecnologias</strong></td>
+    <td>
+      RESTful APIs, Swagger, Azure
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -76,10 +124,3 @@
   <img src="https://i.imgur.com/0y0y0y0.gif" height="40" />
   <b>Feel free to reach out, collaborate, or just say hi!</b>
 </p>
-
----
-
-<!-- 
-ReadMe crafted by Copilot with love 💙
-Feel free to personalize further!
--->
