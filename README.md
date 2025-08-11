@@ -25,16 +25,8 @@
     <img src="https://img.shields.io/github/followers/MatheusCosta616?label=Follow&style=social" title="Follow me"/>
   </a>
 </p>
----
 
-<div align="left">
-<img src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif" height="90" /> 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1200&color=5F51B5&background=FFFFFF00&width=700&lines=public+class+HelloWorld+%7B++++;public+static+void+main(String[]+args)+%7B++++;System.out.println(%22Hello+World!%22);++++;%7D++++;%7D" alt="Java Hello World Animated Typing" />
-</p>
-</div>
 
----
 
 <img position="absolute" align="right" width="200px" src="https://i.pinimg.com/originals/2b/f5/20/2bf52068d4472114de09bb2734a70f2e.gif">
 
@@ -46,7 +38,12 @@ I have been studying programming for over five years, having completed two techn
 
 I am always striving to grow and improve in the area I am passionate about, constantly overcoming challenges and getting better every day.
 
----
+<div align="left">
+<img src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif" height="90" /> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1200&color=5F51B5&background=FFFFFF00&width=700&lines=public+class+HelloWorld+%7B++++;public+static+void+main(String[]+args)+%7B++++;System.out.println(%22Hello+World!%22);++++;%7D++++;%7D" alt="Java Hello World Animated Typing" />
+</p>
+</div>
 
 <h2 align="center">🛠️ My Tech Arsenal</h2>
 
