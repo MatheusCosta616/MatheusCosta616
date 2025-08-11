@@ -58,7 +58,7 @@ I am always striving to grow and improve in the area I am passionate about, cons
   <tr>
     <th>Frameworks</th>
     <td>
-      <img src="https://img.shields.io/badge/Spring-@devCaiqueWS/markdown--badges-brightgreen?style=for-the-badge" alt="Spring"/>
+       <img src="![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)" alt="Java"/>
       <img src="https://img.shields.io/badge/Hibernate-@devCaiqueWS/markdown--badges-darkgreen?style=for-the-badge" alt="Hibernate"/>
       <img src="https://img.shields.io/badge/Liquid-@devCaiqueWS/markdown--badges-blue?style=for-the-badge" alt="Liquid"/>
       <img src="https://img.shields.io/badge/React-@devCaiqueWS/markdown--badges-cyan?style=for-the-badge" alt="React"/>
