@@ -1,13 +1,9 @@
-<p align="center">
-  <img src="https://github.com/MatheusCosta616/MatheusCosta616/assets/your-purple-background-animation.gif" style="position:absolute;top:0;left:0;width:100%;height:100%;z-index:-1;pointer-events:none;" alt="Animated Purple Background"/>
-</p>
+<center></center>
 
-<div align="center">
+<h1 align="center">
   <img height="60px" width="60px" src="https://i.gifer.com/origin/08/089af74235a38edcc7b433321f0a5472_w200.gif" />
-  <h1>
-    Hey there! Welcome to <span style="color:#a259ff;">MatheusCosta616</span>'s Profile 👨‍💻
-  </h1>
-</div>
+  Hey there! Welcome to <span style="color:#a259ff;">MatheusCosta616</span>'s Profile 👨‍💻
+</h1>
 
 <p align="center">
   <img src="http://views.whatilearened.today/views/github/MatheusCosta616/views.svg"/>
@@ -44,64 +40,43 @@ I am always striving to grow and improve in the area I am passionate about, cons
 
 ---
 
-<h2 align="center">🛠️ Competências Técnicas</h2>
+<h2 align="center">🛠️ My Tech Arsenal</h2>
 
-<table align="center">
-  <tr>
-    <td><strong>Linguagens</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=java,js,python" height="30">
-      Java, JavaScript, Python
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Frameworks</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=spring,react" height="30">
-      Spring Boot, Micronaut, Hibernate, Liquid, React, SASS, Vue.js
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Bancos de Dados</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle" height="30">
-      MySQL, PostgreSQL, Oracle, SQL Server
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Versionamento</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git" height="30">
-      Git
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Build</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" height="20">
-      Maven
-    </td>
-  </tr>
-  <tr>
-    <td><strong>CI/CD</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" height="20">
-      Jenkins
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Metodologias Ágeis</strong></td>
-    <td>
-      Scrum, Kanban
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Outras Tecnologias</strong></td>
-    <td>
-      RESTful APIs, Swagger, Azure
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- Linguagens -->
+  <img src="https://skillicons.dev/icons?i=java,js,python" title="Java, JavaScript, Python" />
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=spring,react" title="Spring, React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/micronaut/micronaut-original.svg" height="30" title="Micronaut" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="30" title="Vue.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" height="30" title="Hibernate" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="30" title="SASS" />
+  <!-- Banco de Dados -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle" title="MySQL, PostgreSQL, Oracle" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" title="SQL Server" />
+  <!-- Ferramentas -->
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" height="30" title="Maven" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" height="30" title="Jenkins" />
+  <!-- Outros -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="30" title="Azure" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" height="30" title="Swagger" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" title="HTML" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" title="CSS" />
+</p>
+
+<p align="center">
+  <b>
+    Linguagens: Java, JavaScript, Python <br>
+    Frameworks: Spring Framework, Micronaut, Hibernate, Liquid, React, SASS, Vue.js <br>
+    Banco de dados: MySQL, PostgreSQL, Oracle, SQL Server <br>
+    Ferramenta de versionamento: Git <br>
+    Ferramenta de Build: Maven <br>
+    Ferramentas de integração contínua: Jenkins <br>
+    Metodologias ágeis: Scrum, Kanban <br>
+    Outras tecnologias: RESTful APIs, Swagger, Azure
+  </b>
+</p>
 
 ---
 
