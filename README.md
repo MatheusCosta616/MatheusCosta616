@@ -26,13 +26,9 @@
   </a>
 </p>
 
-
-
 <img position="absolute" align="right" width="200px" src="https://i.pinimg.com/originals/2b/f5/20/2bf52068d4472114de09bb2734a70f2e.gif">
 
-
-
-Full Stack developer focused on technologies such as **Spring Boot (Java), React (JavaScript), Vue.js (JavaScript)**, and relational databases (**SQL**). I worked as an independent developer for a year and am currently working as a developer at **Braxxy Software & Projects**.
+Full Stack developer focused on technologies such as **Spring Boot (Java), Micronaut (Java), React (JavaScript), Vue.js (JavaScript)**, and relational databases (**SQL**). I worked as an independent developer and also as a Full Stack developer at **Braxxy Software & Projects**.
 
 I have been studying programming for over five years, having completed two technical courses at **ETEC Parque Belém**, where I built my foundation. Currently, I am pursuing a **Bachelor's degree in Software Engineering at FIAP** to gain deeper knowledge and expertise in the field.
 
@@ -49,40 +45,71 @@ I am always striving to grow and improve in the area I am passionate about, cons
 <br>
 <h2 align="center">🛠️ My Tech Arsenal</h2>
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=java,js,python" title="Java, JavaScript, Python" />
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=spring,react" title="Spring, React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="30" title="Vue.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" height="30" title="Hibernate" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="30" title="SASS" />
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle" title="MySQL, PostgreSQL, Oracle" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" title="SQL Server" />
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git" title="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" height="30" title="Maven" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" height="30" title="Jenkins" />
-  <!-- Others -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="30" title="Azure" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" height="30" title="Swagger" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" title="HTML" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" title="CSS" />
-</p>
-
-<p align="center">
-  <b text-align="left">
-    Languages: Java, JavaScript, Python <br>
-    Frameworks: Spring Framework, Hibernate, Liquid, React, SASS, Vue.js <br>
-    Databases: MySQL, PostgreSQL, Oracle, SQL Server <br>
-    Version Control: Git <br>
-    Build Tool: Maven <br>
-    Continuous Integration Tools: Jenkins <br>
-    Agile Methodologies: Scrum, Kanban <br>
-    Other Technologies: RESTful APIs, Swagger, Azure
-  </b>
-</p>
+<!-- INÍCIO DO GRÁFICO COM BADGES -->
+<table align="center">
+  <tr>
+    <th>Languages</th>
+    <td>
+      <img src="https://img.shields.io/badge/Java-@devCaiqueWS/markdown--badges-purple?style=for-the-badge" alt="Java"/>
+      <img src="https://img.shields.io/badge/JavaScript-@devCaiqueWS/markdown--badges-yellow?style=for-the-badge" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/Python-@devCaiqueWS/markdown--badges-blue?style=for-the-badge" alt="Python"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Frameworks</th>
+    <td>
+      <img src="https://img.shields.io/badge/Spring-@devCaiqueWS/markdown--badges-brightgreen?style=for-the-badge" alt="Spring"/>
+      <img src="https://img.shields.io/badge/Hibernate-@devCaiqueWS/markdown--badges-darkgreen?style=for-the-badge" alt="Hibernate"/>
+      <img src="https://img.shields.io/badge/Liquid-@devCaiqueWS/markdown--badges-blue?style=for-the-badge" alt="Liquid"/>
+      <img src="https://img.shields.io/badge/React-@devCaiqueWS/markdown--badges-cyan?style=for-the-badge" alt="React"/>
+      <img src="https://img.shields.io/badge/SASS-@devCaiqueWS/markdown--badges-pink?style=for-the-badge" alt="SASS"/>
+      <img src="https://img.shields.io/badge/Vue.js-@devCaiqueWS/markdown--badges-brightgreen?style=for-the-badge" alt="Vue.js"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Databases</th>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-@devCaiqueWS/markdown--badges-blue?style=for-the-badge" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-@devCaiqueWS/markdown--badges-blue?style=for-the-badge" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Oracle-@devCaiqueWS/markdown--badges-red?style=for-the-badge" alt="Oracle"/>
+      <img src="https://img.shields.io/badge/SQL%20Server-@devCaiqueWS/markdown--badges-lightgrey?style=for-the-badge" alt="SQL Server"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Version Control</th>
+    <td>
+      <img src="https://img.shields.io/badge/Git-@devCaiqueWS/markdown--badges-orange?style=for-the-badge" alt="Git"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Build Tool</th>
+    <td>
+      <img src="https://img.shields.io/badge/Maven-@devCaiqueWS/markdown--badges-red?style=for-the-badge" alt="Maven"/>
+    </td>
+  </tr>
+  <tr>
+    <th>CI Tools</th>
+    <td>
+      <img src="https://img.shields.io/badge/Jenkins-@devCaiqueWS/markdown--badges-grey?style=for-the-badge" alt="Jenkins"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Agile Methodologies</th>
+    <td>
+      <img src="https://img.shields.io/badge/Scrum-@devCaiqueWS/markdown--badges-blue?style=for-the-badge" alt="Scrum"/>
+      <img src="https://img.shields.io/badge/Kanban-@devCaiqueWS/markdown--badges-blue?style=for-the-badge" alt="Kanban"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Other Technologies</th>
+    <td>
+      <img src="https://img.shields.io/badge/RESTful%20APIs-@devCaiqueWS/markdown--badges-brightgreen?style=for-the-badge" alt="RESTful APIs"/>
+      <img src="https://img.shields.io/badge/Swagger-@devCaiqueWS/markdown--badges-green?style=for-the-badge" alt="Swagger"/>
+      <img src="https://img.shields.io/badge/Azure-@devCaiqueWS/markdown--badges-blue?style=for-the-badge" alt="Azure"/>
+    </td>
+  </tr>
+</table>
+<!-- FIM DO GRÁFICO COM BADGES -->
 
 ---
 
@@ -90,6 +117,7 @@ I am always striving to grow and improve in the area I am passionate about, cons
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatheusCosta616&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusCosta616&theme=tokyonight" height="170"/>
