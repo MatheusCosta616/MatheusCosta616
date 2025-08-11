@@ -9,6 +9,11 @@
   <img src="http://views.whatilearened.today/views/github/MatheusCosta616/views.svg"/>
 </p>
 
+<!-- Star Wars intro GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" height="120" alt="Star Wars Intro"/>
+</p>
+
 <h2 align="center">🚀 Welcome to my Universe 🚀</h2>
 
 <p align="center">
@@ -38,26 +43,34 @@ I have been studying programming for over five years, having completed two techn
 
 I am always striving to grow and improve in the area I am passionate about, constantly overcoming challenges and getting better every day.
 
+<!-- Star Wars Yoda GIF & Japanese Sakura GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/10VjiVoa9rWC4M/giphy.gif" height="70" title="Yoda"/>
+  <img src="https://media.giphy.com/media/WFJYNo5ZqUHlW/giphy.gif" height="70" title="Sakura"/>
+  <img src="https://media.giphy.com/media/3o7btNR4lqU7b3q8kY/giphy.gif" height="70" title="Samurai"/>
+</p>
+
 ---
 
 <h2 align="center">🛠️ My Tech Arsenal</h2>
 
 <p align="center">
-  <!-- Linguagens -->
+  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=java,js,python" title="Java, JavaScript, Python" />
   <!-- Frameworks -->
   <img src="https://skillicons.dev/icons?i=spring,react" title="Spring, React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/micronaut/micronaut-original.svg" height="30" title="Micronaut" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="30" title="Vue.js" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" height="30" title="Hibernate" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="30" title="SASS" />
-  <!-- Banco de Dados -->
+  <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle" title="MySQL, PostgreSQL, Oracle" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" title="SQL Server" />
-  <!-- Ferramentas -->
+  <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git" title="Git" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" height="30" title="Maven" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" height="30" title="Jenkins" />
-  <!-- Outros -->
+  <!-- Others -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="30" title="Azure" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" height="30" title="Swagger" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" title="HTML" />
@@ -76,6 +89,21 @@ I am always striving to grow and improve in the area I am passionate about, cons
     Other Technologies: RESTful APIs, Swagger, Azure
   </b>
 </p>
+
+<!-- Japanese anime coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="70" title="Coding Anime"/>
+</p>
+
+---
+
+<h2 align="center">📈 GitHub Metrics</h2>
+
+<p align="center">
+  <!-- lowlighter/metrics card -->
+  <img src="https://metrics.lecoq.io/MatheusCosta616?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&habits=1&notable=1&lines=1&stars=1&topics=1&people=1&followup=1&stargazers=1&repositories=1&activity=1&achievements=1&base.indepth=1&config.timezone=America%2FSao_Paulo" alt="Metrics" />
+</p>
+
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -94,6 +122,10 @@ I am always striving to grow and improve in the area I am passionate about, cons
 <h2 align="center">🌎 Let's Connect & Build!</h2>
 
 <p align="center">
-  <img src="https://i.imgur.com/0y0y0y0.gif" height="40" />
+  <img src="https://media.giphy.com/media/9dFbgc31U0zNw/giphy.gif" height="50" title="Star Wars Force"/>
+  <img src="https://media.giphy.com/media/9V7FOVj7m4HgE/giphy.gif" height="50" title="Japanese Kawaii"/>
+  <br>
   <b>Feel free to reach out, collaborate, or just say hi!</b>
 </p>
+
+---
