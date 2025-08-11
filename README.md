@@ -99,3 +99,9 @@ I am always striving to grow and improve in the area I am passionate about, cons
   <img src="https://i.imgur.com/0y0y0y0.gif" height="40" />
   <b>Feel free to reach out, collaborate, or just say hi!</b>
 </p>
+
+<h2 align="center">📈 GitHub Metrics</h2>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/MatheusCosta616?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&habits=1&notable=1&lines=1&stars=1&topics=1&people=1&followup=1&stargazers=1&repositories=1&activity=1&achievements=1&base.indepth=1&config.timezone=America%2FSao_Paulo" alt="Metrics" />
+</p>
