@@ -37,7 +37,7 @@ Full Stack developer focused on technologies such as **Spring Boot (Java), React
 I have been studying programming for over five years, having completed two technical courses at **ETEC Parque Belém**, where I built my foundation. Currently, I am pursuing a **Bachelor's degree in Software Engineering at FIAP** to gain deeper knowledge and expertise in the field.
 
 I am always striving to grow and improve in the area I am passionate about, constantly overcoming challenges and getting better every day.
-<br/>
+<br>
 ---
 <div align="left">
 <img src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif" height="90" /> 
@@ -46,7 +46,7 @@ I am always striving to grow and improve in the area I am passionate about, cons
 </p>
 </div>
 ---
-<br/>
+<br>
 <h2 align="center">🛠️ My Tech Arsenal</h2>
 
 <p align="center">
