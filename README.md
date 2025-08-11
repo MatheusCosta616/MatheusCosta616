@@ -25,9 +25,6 @@
     <img src="https://img.shields.io/github/followers/MatheusCosta616?label=Follow&style=social" title="Follow me"/>
   </a>
 </p>
-
-<img position="absolute" align="right" width="400px" src="https://i.pinimg.com/originals/2b/f5/20/2bf52068d4472114de09bb2734a70f2e.gif">
-
 ---
 
 <div align="left">
@@ -38,6 +35,10 @@
 </div>
 
 ---
+
+<img position="absolute" align="right" width="200px" src="https://i.pinimg.com/originals/2b/f5/20/2bf52068d4472114de09bb2734a70f2e.gif">
+
+
 
 Full Stack developer focused on technologies such as **Spring Boot (Java), React (JavaScript), Vue.js (JavaScript)**, and relational databases (**SQL**). I worked as an independent developer for a year and am currently working as a developer at **Braxxy Software & Projects**.
 
