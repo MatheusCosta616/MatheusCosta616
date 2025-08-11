@@ -26,14 +26,15 @@
   </a>
 </p>
 
-<img align="right" width="300px" src="https://i.pinimg.com/originals/2b/f5/20/2bf52068d4472114de09bb2734a70f2e.gif">
+<img align="right" width="420px" src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif">
 
 ---
 
 ### <img src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif" height="28" /> 
+
 <div align="left">
-<!-- Animated Java Hello World! -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5F51B5&width=435&lines=public+class+HelloWorld+%7B;public+static+void+main(String[]+args)+%7B;System.out.println(%22Hello+World!%22);%7D;%7D" alt="Java Hello World Animated Typing" />
+<!-- Animated Java Hello World! (writes out, doesn't loop/erase) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5F51B5&width=700&lines=public+class+HelloWorld+%7B++++;+public+static+void+main(String[]+args)+%7B++++;+System.out.println(%22Hello+World!%22);++++;+%7D++++;+%7D" alt="Java Hello World Animated Typing" />
 </div>
 
 ---
@@ -101,9 +102,7 @@ I am always striving to grow and improve in the area I am passionate about, cons
 <h2 align="center">🌎 Let's Connect & Build!</h2>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif" height="60" title="Yakuza Kiryu"/>
+  <img src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif" height="240" title="Yakuza Kiryu"/>
   <br>
   <b>Feel free to reach out, collaborate, or just say hi!</b>
 </p>
-
----
