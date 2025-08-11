@@ -9,11 +9,6 @@
   <img src="http://views.whatilearened.today/views/github/MatheusCosta616/views.svg"/>
 </p>
 
-<!-- Star Wars intro GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" height="120" alt="Star Wars Intro"/>
-</p>
-
 <h2 align="center">🚀 Welcome to my Universe 🚀</h2>
 
 <p align="center">
@@ -35,20 +30,19 @@
 
 ---
 
-### 👋 Hello World, I'm [Matheus Costa](https://github.com/MatheusCosta616)!
+### <img src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif" height="28" /> 
+<div align="left">
+<!-- Animated Java Hello World! -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5F51B5&width=435&lines=public+class+HelloWorld+%7B;public+static+void+main(String[]+args)+%7B;System.out.println(%22Hello+World!%22);%7D;%7D" alt="Java Hello World Animated Typing" />
+</div>
 
-Full Stack developer focused on technologies such as **Spring Boot (Java), Micronaut (Java), React (JavaScript), Vue.js (JavaScript)**, and relational databases (**SQL**). I worked as an independent developer for a year and am currently working as a developer at **Braxxy Software & Projects**.
+---
+
+Full Stack developer focused on technologies such as **Spring Boot (Java), React (JavaScript), Vue.js (JavaScript)**, and relational databases (**SQL**). I worked as an independent developer for a year and am currently working as a developer at **Braxxy Software & Projects**.
 
 I have been studying programming for over five years, having completed two technical courses at **ETEC Parque Belém**, where I built my foundation. Currently, I am pursuing a **Bachelor's degree in Software Engineering at FIAP** to gain deeper knowledge and expertise in the field.
 
 I am always striving to grow and improve in the area I am passionate about, constantly overcoming challenges and getting better every day.
-
-<!-- Star Wars Yoda GIF & Japanese Sakura GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/10VjiVoa9rWC4M/giphy.gif" height="70" title="Yoda"/>
-  <img src="https://media.giphy.com/media/WFJYNo5ZqUHlW/giphy.gif" height="70" title="Sakura"/>
-  <img src="https://media.giphy.com/media/3o7btNR4lqU7b3q8kY/giphy.gif" height="70" title="Samurai"/>
-</p>
 
 ---
 
@@ -59,7 +53,6 @@ I am always striving to grow and improve in the area I am passionate about, cons
   <img src="https://skillicons.dev/icons?i=java,js,python" title="Java, JavaScript, Python" />
   <!-- Frameworks -->
   <img src="https://skillicons.dev/icons?i=spring,react" title="Spring, React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/micronaut/micronaut-original.svg" height="30" title="Micronaut" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="30" title="Vue.js" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" height="30" title="Hibernate" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="30" title="SASS" />
@@ -80,7 +73,7 @@ I am always striving to grow and improve in the area I am passionate about, cons
 <p align="center">
   <b>
     Languages: Java, JavaScript, Python <br>
-    Frameworks: Spring Framework, Micronaut, Hibernate, Liquid, React, SASS, Vue.js <br>
+    Frameworks: Spring Framework, Hibernate, Liquid, React, SASS, Vue.js <br>
     Databases: MySQL, PostgreSQL, Oracle, SQL Server <br>
     Version Control: Git <br>
     Build Tool: Maven <br>
@@ -88,20 +81,6 @@ I am always striving to grow and improve in the area I am passionate about, cons
     Agile Methodologies: Scrum, Kanban <br>
     Other Technologies: RESTful APIs, Swagger, Azure
   </b>
-</p>
-
-<!-- Japanese anime coding GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="70" title="Coding Anime"/>
-</p>
-
----
-
-<h2 align="center">📈 GitHub Metrics</h2>
-
-<p align="center">
-  <!-- lowlighter/metrics card -->
-  <img src="https://metrics.lecoq.io/MatheusCosta616?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&habits=1&notable=1&lines=1&stars=1&topics=1&people=1&followup=1&stargazers=1&repositories=1&activity=1&achievements=1&base.indepth=1&config.timezone=America%2FSao_Paulo" alt="Metrics" />
 </p>
 
 ---
@@ -122,8 +101,7 @@ I am always striving to grow and improve in the area I am passionate about, cons
 <h2 align="center">🌎 Let's Connect & Build!</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/9dFbgc31U0zNw/giphy.gif" height="50" title="Star Wars Force"/>
-  <img src="https://media.giphy.com/media/9V7FOVj7m4HgE/giphy.gif" height="50" title="Japanese Kawaii"/>
+  <img src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif" height="60" title="Yakuza Kiryu"/>
   <br>
   <b>Feel free to reach out, collaborate, or just say hi!</b>
 </p>
