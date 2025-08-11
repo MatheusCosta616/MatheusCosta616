@@ -89,8 +89,7 @@ I am always striving to grow and improve in the area I am passionate about, cons
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatheusCosta616&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusCosta616&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+  <img src="https://streak-stats.demolab.com?user=MatheusCosta616&theme=tokyonight&hide_border=true" height="170"/>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusCosta616&theme=tokyonight" height="170"/>
