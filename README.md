@@ -26,11 +26,11 @@
   </a>
 </p>
 
-<img align="right" width="420px" src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif">
+<img align="right" width="300px" src="https://i.pinimg.com/originals/2b/f5/20/2bf52068d4472114de09bb2734a70f2e.gif">
 
 ---
 
-### <img src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif" height="28" /> 
+### <img src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif" height="40" /> 
 
 <div align="left">
 <!-- Animated Java Hello World! (writes out, doesn't loop/erase) -->
