@@ -32,11 +32,8 @@
 
 <div align="left">
 <img src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif" height="90" /> 
-<!-- Animated Java Hello World! (writes out, doesn't loop/erase) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1200&color=5F51B5&background=FFFFFF00&width=700&lines=public+class+HelloWorld+%7B++++;public+static+void+main(String[]+args)+%7B++++;System.out.println(%22Hello+World!%22);++++;%7D++++;%7D" alt="Java Hello World Animated Typing" />
-  <br>
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" height="120" alt="Animated Terminal Hello World" />
 </p>
 </div>
 
