@@ -71,7 +71,7 @@ I am always striving to grow and improve in the area I am passionate about, cons
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" title="CSS" />
 </p>
 
-<p align="center">
+<p align="left">
   <b>
     Languages: Java, JavaScript, Python <br>
     Frameworks: Spring Framework, Hibernate, Liquid, React, SASS, Vue.js <br>
