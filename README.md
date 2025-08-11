@@ -30,9 +30,10 @@
 
 ---
 
-<img src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif" height="40" /> 
+
 
 <div align="left">
+<img src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif" height="200" /> 
 <!-- Animated Java Hello World! (writes out, doesn't loop/erase) -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5F51B5&width=700&lines=public+class+HelloWorld+%7B++++;+public+static+void+main(String[]+args)+%7B++++;+System.out.println(%22Hello+World!%22);++++;+%7D++++;+%7D" alt="Java Hello World Animated Typing" />
 </div>
