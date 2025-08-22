@@ -100,7 +100,6 @@ I am always striving to grow and improve in the area I am passionate about, cons
     </td>
   </tr>
 </table>
-<!-- FIM DO GRÁFICO COM BADGES -->
 
 ---
 
