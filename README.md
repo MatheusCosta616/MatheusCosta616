@@ -114,18 +114,18 @@ I am always striving to grow and improve in the area I am passionate about, cons
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=MatheusCosta616&show_icons=true&theme=tokyonight&hide_border=true" height="190"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=MatheusCosta616&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusCosta616&theme=tokyonight" height="190"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusCosta616&theme=tokyonight" height="170"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-stats-alpha.vercel.app/api?username=MatheusCosta616&cc=000&tc=00FFFF&ic=FF00FF&bc=0d1117" height="190"/>
+      <img src="https://github-stats-alpha.vercel.app/api?username=MatheusCosta616&cc=000&tc=00FFFF&ic=FF00FF&bc=0d1117" height="250"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCosta616&layout=compact&theme=radical&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="190"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCosta616&layout=compact&theme=radical&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="170"/>
     </td>
   </tr>
 </table>
