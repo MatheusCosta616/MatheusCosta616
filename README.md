@@ -124,7 +124,9 @@ I am always striving to grow and improve in the area I am passionate about, cons
     <td align="left">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCosta616&layout=compact&theme=radical&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="170"/>
     </td>
-    
+     <td align="center">
+      <img src="https://github-stats-alpha.vercel.app/api?username=MatheusCosta616&cc=000&tc=00FFFF&ic=FF00FF&bc=0d1117&theme=tokyonight" height="250"/>
+    </td>
   </tr>
 </table>
 ---
