@@ -119,6 +119,14 @@ I am always striving to grow and improve in the area I am passionate about, cons
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusCosta616&theme=tokyonight" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=MatheusCosta616&cc=000&tc=00FFFF&ic=FF00FF&bc=0d1117" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCosta616&layout=compact&theme=radical&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="170"/>
+</p>
+
 ---
 
 <h2 align="center">🌎 Let's Connect & Build!</h2>
