@@ -31,8 +31,6 @@ Desenvolvedor Back-end com foco em **Spring Boot e Java**. Trabalhei na **Braxxy
 
 Sou formado como **Técnico em Informática para Internet pela ETEC Parque Belém**, onde construí minha base. Atualmente, estou cursando **Bacharelado em Engenharia de Software pela FIAP** para aprofundar meus conhecimentos na área, além de participar constantemente de bootcamps para me manter atualizado com as tecnologias mais recentes.
 <br>
----
-
 
 <br>
 <h2 align="center">🛠️ Meu Arsenal Tecnológico</h2>
@@ -111,7 +109,6 @@ Sou formado como **Técnico em Informática para Internet pela ETEC Parque Belé
     </td>
   </tr>
 </table>
----
 
 <h2 align="center">🌎 Vamos Conectar & Construir!</h2>
 
@@ -121,9 +118,3 @@ Sou formado como **Técnico em Informática para Internet pela ETEC Parque Belé
   <b>Fique à vontade para entrar em contato, colaborar ou apenas dizer olá!</b>
 </p>
 
-<div align="left">
-<img src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif" height="90" /> 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1200&color=5F51B5&background=FFFFFF00&width=700&lines=public+class+HelloWorld+%7B++++;public+static+void+main(String[]+args)+%7B++++;System.out.println(%22Olá+Mundo!%22);++++;%7D++++;%7D" alt="Java Hello World Animated Typing" />
-</p>
-</div>
