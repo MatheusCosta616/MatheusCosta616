@@ -114,8 +114,6 @@ I have been studying programming for over five years, having completed two techn
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=MatheusCosta616&show_icons=true&theme=radical&hide_border=true" height="170"/>
     </td>
-  </tr>
-  <tr>
     <td align="left">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCosta616&layout=compact&theme=tokyonight&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="170"/>
     </td>
