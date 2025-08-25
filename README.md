@@ -28,7 +28,7 @@
 
 <img position="absolute" align="right" width="200px" src="https://i.pinimg.com/originals/2b/f5/20/2bf52068d4472114de09bb2734a70f2e.gif">
 
-Full Stack developer focused on technologies such as **Spring Boot (Java), Micronaut (Java), React (JavaScript), Vue.js (JavaScript)**, and relational databases (**SQL**). I worked as an independent developer and also as a Full Stack developer at **Braxxy Software & Projects**.
+Full Stack developer focused on technologies such as **Spring Boot (Java), Micronaut (Java), React (JavaScript), Vue.js (JavaScript), and relational databases (**SQL**). I worked as an independent developer and also as a Full Stack developer at **Braxxy Software & Projects.
 
 I have been studying programming for over five years, having completed two technical courses at **ETEC Parque Belém**, where I built my foundation. Currently, I am pursuing a **Bachelor's degree in Software Engineering at FIAP** to gain deeper knowledge and expertise in the field.
 <br>
