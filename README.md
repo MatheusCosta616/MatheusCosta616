@@ -27,7 +27,7 @@
 
 Desenvolvedor Back-end com foco em **Spring Boot e Java**. Trabalhei na **Braxxy Software & Projetos** por 8 meses como desenvolvedor Full Stack Jr, onde atuei com tecnologias como Spring Boot (Java), Micronaut (Java), React (JavaScript), Vue.js (JavaScript) e bancos de dados relacionais (SQL).
 
-Sou formado como **Técnico em Informática para Internet pela ETEC Parque Belém**, onde construí minha base. Atualmente, estou cursando **Bacharelado em Engenharia de Software pela FIAP** para aprofundar meus conhecimentos na área, além de participar constantemente de bootcamps para me manter atualizado com as tecnologias mais recentes.
+Sou formado como **Técnico em Informática para Internet pela ETEC Parque Belém**, onde construí minha base. Atualmente, estou cursando **Bacharelado em Engenharia de Software pela FIAP**, além de participar constantemente de bootcamps para me manter atualizado com as tecnologias mais recentes.
 <br>
 
 <br>
