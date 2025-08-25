@@ -105,8 +105,6 @@ I have been studying programming for over five years, having completed two techn
   </tr>
 </table>
 
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <table align="center">
