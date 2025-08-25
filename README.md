@@ -9,8 +9,6 @@
   <img src="http://views.whatilearened.today/views/github/MatheusCosta616/views.svg"/>
 </p>
 
-<h2 align="center">🚀 Bem-vindo ao meu Universo 🚀</h2>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-costa-b7a46425b/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
