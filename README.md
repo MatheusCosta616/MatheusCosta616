@@ -31,8 +31,6 @@
 Full Stack developer focused on technologies such as **Spring Boot (Java), Micronaut (Java), React (JavaScript), Vue.js (JavaScript)**, and relational databases (**SQL**). I worked as an independent developer and also as a Full Stack developer at **Braxxy Software & Projects**.
 
 I have been studying programming for over five years, having completed two technical courses at **ETEC Parque Belém**, where I built my foundation. Currently, I am pursuing a **Bachelor's degree in Software Engineering at FIAP** to gain deeper knowledge and expertise in the field.
-
-I am always striving to grow and improve in the area I am passionate about, constantly overcoming challenges and getting better every day.
 <br>
 ---
 <div align="left">
@@ -116,16 +114,10 @@ I am always striving to grow and improve in the area I am passionate about, cons
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=MatheusCosta616&show_icons=true&theme=radical&hide_border=true" height="170"/>
     </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusCosta616&theme=radical" height="170"/>
-    </td>
   </tr>
   <tr>
     <td align="left">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCosta616&layout=compact&theme=tokyonight&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="170"/>
-    </td>
-     <td align="center" style="vertical-align:middle; text-align:center;">
-      <img src="https://github-stats-alpha.vercel.app/api?username=MatheusCosta616&cc=000&tc=00FFFF&ic=FF00FF&bc=0d1117&theme=tokyonight" height="250"/>
     </td>
   </tr>
 </table>
