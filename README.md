@@ -1,6 +1,3 @@
-Current Date and Time (UTC - YYYY-MM-DD HH:MM:SS formatted): 2025-08-25 20:45:12
-Current User's Login: MatheusCosta616
-
 <center></center>
 
 <h1 align="center">
