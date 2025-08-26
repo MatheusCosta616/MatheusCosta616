@@ -88,7 +88,7 @@ Sou formado como **Técnico em Informática para Internet pela ETEC Parque Belé
     </td>
   </tr>
    <tr>
-    <th>🎮 Games</th>
+    <th>Games</th>
     <td>
       <img src="https://camo.githubusercontent.com/d03b244b77ea85d08123189be2265e8b38f785f0d75946b634c43a8a3040a586/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f556e6974792d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d756e697479266c6f676f436f6c6f723d7768697465" alt="Unity"/>
     </td>
