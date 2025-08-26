@@ -81,9 +81,14 @@ Sou formado como **Técnico em Informática para Internet pela ETEC Parque Belé
     </td>
   </tr>
   <tr>
-    <th>Outras Tecnologias</th>
+    <th>Documentação</th>
     <td>
       <img src="https://camo.githubusercontent.com/579cca9d03e324c90d59af069554195682c0f3b67f61cd401efeaa3c0ae3974b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537761676765722d253233436c6f6a7572653f7374796c653d666f722d7468652d6261646765266c6f676f3d73776167676572266c6f676f436f6c6f723d7768697465" alt="Swagger"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Cloud</th>
+    <td>
       <img src="https://camo.githubusercontent.com/4fe6eaf86e85cb22a5ab2d48bbc52ed98b4329e6583ff1a721941789e6296709/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f617a7572652d2532333030373243362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f6674617a757265266c6f676f436f6c6f723d7768697465" alt="Azure"/>
     </td>
   </tr>
