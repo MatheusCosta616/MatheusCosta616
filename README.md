@@ -30,6 +30,7 @@ Desenvolvedor Back-end com foco em **Spring Boot e Java**. Trabalhei na **Braxxy
 Sou formado como **Técnico em Informática para Internet pela ETEC Parque Belém**, onde construí minha base. Atualmente, estou cursando **Bacharelado em Engenharia de Software pela FIAP**, além de participar constantemente de bootcamps para me manter atualizado com as tecnologias mais recentes.
 <br>
 
+<h2 align="center">🎓 Bootcamps</h2>
 <table align="center">
   <tr>
     <th>Bootcamp</th>
