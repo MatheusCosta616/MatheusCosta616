@@ -30,14 +30,21 @@ Desenvolvedor Back-end com foco em **Spring Boot e Java**. Trabalhei na **Braxxy
 Sou formado como **Técnico em Informática para Internet pela ETEC Parque Belém**, onde construí minha base. Atualmente, estou cursando **Bacharelado em Engenharia de Software pela FIAP**, além de participar constantemente de bootcamps para me manter atualizado com as tecnologias mais recentes.
 <br>
 
-<center>
-## Bootcamps
-
-| Bootcamp                        | Status        | Certificado |
-|---------------------------------|--------------|-------------|
-| GFT Start #7 - Java (DIO)       | Em andamento | —           |
-
-</center>
+<table align="center">
+  <tr>
+    <th>Bootcamp</th>
+    <th>Status</th>
+    <th>Certificado</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://hermes.dio.me/tracks/8f8aef5e-7a7c-4ccb-89e2-7ef1ac2f7f2c.png" height="32" style="vertical-align:middle;" />
+      <b>GFT Start #7 - Java (DIO)</b>
+    </td>
+    <td><span style="color: orange; font-weight: bold;">Em andamento</span></td>
+    <td>—</td>
+  </tr>
+  </table>
 <br>
 <h2 align="center">🛠️ Meu Arsenal Tecnológico</h2>
 
