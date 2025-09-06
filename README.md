@@ -34,10 +34,14 @@ Sou formado como **Técnico em Informática para Internet pela ETEC Parque Belé
     <td>
       <b>GFT Start #7 - Java (DIO)</b>
     </td>
-    <td><span style="color: orange; font-weight: bold;">Em andamento</span></td>
-    <td>—</td>
+    <td><span style="color: orange; font-weight: bold;">Completo</span></td>
+    <td>
+      <a href="https://hermes.dio.me/certificates/D3BYB0ND.pdf" target="_blank">
+        Ver Certificado
+      </a>
+    </td>
   </tr>
-  </table>
+</table>
 <br>
 <h2 align="center">🛠️ Meu Arsenal Tecnológico</h2>
 
